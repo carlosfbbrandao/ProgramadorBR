@@ -4,5 +4,9 @@
     padding: 10px;
     color: white;
     background-color: blue;
+}
 
+#p02 {
+    background-color: grey;
+    background-image: url(imagens/fundo02.jpg);
 }
