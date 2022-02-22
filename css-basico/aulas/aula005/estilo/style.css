@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+
+h1 {
+    color: blue;
+}
+
+div#indice > ul {
+    padding: 10px;
+    margin: 0px;
+    background-color: grey;
+    columns: 2;
+    list-style-position: inside;
+    list-style-type: none;
+    color: white;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+ul > li > a {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    color: chartreuse;
+}
+
+h2#capitulo01 {
+    color: green;
+}
+
+h2#capitulo03 {
+    color: red;
+}
+
+p.cor01 {
+    color: blue;
+}
+
+p.cor02 {
+    color: red;
+}
+

@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.cor_nome {
+    color: dodgerblue;
+}
+
+.cor_rgb {
+    color: rgb(150, 150, 255);
+}
+
+.cor_rgba {
+    color: rgba(200, 0, 100, 50);
+}
+
+.cor_ex {
+    color: #0000ff;
+}
