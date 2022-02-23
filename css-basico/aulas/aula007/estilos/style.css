@@ -1,2 +1,32 @@
 @charset "UTF-8";
 
+
+body {
+    height: 100vh;
+    background-image: url(../imagens/fundo02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#p01 {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+#p02 {
+    padding: 10px;
+    background-image: url(../imagens/fundo01.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#p03 {
+    padding: 10px;
+    background-image: url(../imagens/fundo01.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+}
+
