@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+
+#imafundo {
+    background-color: red;
+
+}
+
+#subdiv {
+    color: white;
+    background-color: blue;
+    padding: 5px 25px;
+    margin: 15px;
+}
