@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.container {
+    font-size: 20px;
+}
+
+.inside {
+    font-size: 2em;
+}
+
+.container2 {
+    font-size: 20px;
+}
+
+.inside2 {
+    font-size: 2rem;
+}
+
+.container3 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+
+.inside3 {
+    width: 80%;
+    height: 50%;
+    background-color: blue;
+}
