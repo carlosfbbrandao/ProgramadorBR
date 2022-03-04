@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.base {
+    height: 10px;
+    background-color: red;
+}
+
+.container {
+    background-color: blue;
+    color: white;
+    margin: 5px 20px;
+}
