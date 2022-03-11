@@ -1,2 +1,17 @@
 @charset "UTF-8";
 
+.borda {
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 50%;
+    border: ;
+
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+
+}
