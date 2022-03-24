@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    background-color: red;
+    padding: 5px;
+    border: 5px solid blue;
+    margin: 10px;
+}
+
+.content {
+    background-color: lightgray;
+    border: 5px solid green;
+    margin: 5px;
+    padding: 5px;
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 10px solid blue;
+    padding: 10px;
+
+}
+
+.quadrado2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 10px solid blue;
+    padding: 10px;
+
+    box-sizing: border-box;
+}
+
+.quadrado3 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
